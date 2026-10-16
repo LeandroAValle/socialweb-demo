@@ -24,7 +24,7 @@ jobs:
       - name: Check generated snapshot
         run: |
           dotnet run --project src/SocialWebDemo.Api -c Release --no-launch-profile --no-build -- --export-snapshot
-          git diff --exit-code -- site/data/snapshot.json
+          git diff --exit-code -- artifacts/snapshot.json
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request'
         with:

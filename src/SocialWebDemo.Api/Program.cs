@@ -5,7 +5,7 @@ var snapshot = SnapshotFactory.Build();
 var jsonOptions = new JsonSerializerOptions(JsonSerializerDefaults.Web) { WriteIndented = true };
 if (args.Contains("--export-snapshot"))
 {
-    var path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "../../../../../site/data/snapshot.json"));
+    var path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "../../../../../artifacts/snapshot.json"));
     Directory.CreateDirectory(Path.GetDirectoryName(path)!);
     File.WriteAllText(path, JsonSerializer.Serialize(snapshot, jsonOptions) + "\n");
     Console.WriteLine($"Snapshot sintético exportado: {path}");

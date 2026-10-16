@@ -6,7 +6,7 @@
 | Gerar dados com semente fixa | Facilitar reprodução e revisão dos indicadores | O dataset não varia a cada acesso |
 | Derivar todas as métricas dos registros | Evitar números decorativos inconsistentes | Soma dos territórios pode ser confrontada com o total |
 | Entregar API local e snapshot sintético | Mostrar backend sem hospedar serviço público | API e dataset ficam separados da captura original |
-| Exibir captura autorizada da tela pública | Preservar a identidade visual original sem publicar telas autenticadas | A página de portfólio não reconstrói o sistema operacional |
+| Exibir captura do dashboard original | Preservar a identidade visual original sem reconstruir telas do produto | A página de portfólio é estática e direciona ao sistema oficial |
 | Não implementar elegibilidade automática | Regras assistenciais exigem contexto e validação institucional | Nenhuma decisão real pode ser inferida dos dados do demo |
 
 ## Próximos passos possíveis

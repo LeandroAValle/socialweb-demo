@@ -1,17 +1,17 @@
 # BW Social — estudo de caso de portfólio
 
-**Captura real do sistema de assistência social e documentação técnica de um projeto independente com dados sintéticos.**
+**Captura do dashboard original do sistema de assistência social e resumo da experiência profissional no produto.**
 
-[![Estudo de caso](https://img.shields.io/badge/Estudo%20de%20caso-tela%20original-1382b2?style=for-the-badge&labelColor=142b43)](https://leandroavalle.github.io/socialweb-demo/)
+[![Estudo de caso](https://img.shields.io/badge/Estudo%20de%20caso-dashboard%20original-1382b2?style=for-the-badge&labelColor=142b43)](https://leandroavalle.github.io/socialweb-demo/)
 [![CI](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml/badge.svg)](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml)
 
-![Tela pública original de acesso do BW Social](site/assets/original-login.png)
+![Dashboard original do BW Assistência Social](site/assets/original-dashboard.png)
 
-> A imagem é uma captura autorizada da página pública de acesso do [BW Social original](https://socialweb.bwinformatica.com.br/), feita em 16/10/2026. Ela não contém informações de usuários ou atendimentos. Este repositório não publica código nem dados operacionais do sistema.
+> A imagem é a captura do dashboard original fornecida para este estudo de caso. Os indicadores visíveis fazem parte da imagem. O link abre o [SocialWeb original](https://socialweb.bwinformatica.com.br/); esta página de portfólio é estática e não fornece acesso de demonstração nem conexão com o sistema.
 
 ## Em 30 segundos
 
-O estudo de caso documenta a experiência profissional no desenvolvimento e na evolução de uma plataforma de gestão da assistência social. A página pública mostra a tela original de acesso; não reproduz as telas autenticadas. Em separado, o repositório contém uma API independente de leitura com dados sintéticos, útil para demonstrar modelagem, agregação e validação sem expor informações reais.
+O estudo de caso documenta a experiência profissional no desenvolvimento e na evolução de uma plataforma de gestão da assistência social. A página pública mostra uma captura do dashboard original e aponta para o sistema oficial. Em separado, o repositório mantém uma API independente de leitura com dados sintéticos, como material técnico explorável localmente; ela não replica nem se conecta ao produto original.
 
 **O que este projeto demonstra:** modelagem de domínio, validação de integridade, agregação de indicadores, API HTTP, documentação técnica, testes e publicação automatizada.
 
@@ -19,7 +19,7 @@ O estudo de caso documenta a experiência profissional no desenvolvimento e na e
 
 | Recurso | Acesso |
 | --- | --- |
-| Tela original e contexto do projeto | [Abrir estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
+| Captura do dashboard e contexto do projeto | [Abrir estudo de caso](https://leandroavalle.github.io/socialweb-demo/) |
 | Sistema original | [Abrir BW Social](https://socialweb.bwinformatica.com.br/) |
 | API local | `dotnet run --project src/SocialWebDemo.Api` |
 | Documentação técnica | [Arquitetura](docs/ARCHITECTURE.md) · [Decisões](docs/DECISIONS.md) · [Dados](docs/DATA.md) · [Segurança](docs/SECURITY.md) |
@@ -32,7 +32,7 @@ flowchart LR
     V --> S[Snapshot sintético]
     S --> A[API HTTP somente leitura]
     S --> J[JSON sintético versionado]
-    R[Captura autorizada da tela pública original] --> W[Estudo de caso<br/>GitHub Pages]
+    R[Captura do dashboard original] --> W[Página estática<br/>GitHub Pages]
     T[Testes xUnit] --> G
     T --> V
 ```
@@ -41,10 +41,10 @@ flowchart LR
 | --- | --- | --- |
 | Domínio | C# / .NET 10 | Entidades, geração sintética, regras e agregações |
 | API | ASP.NET Core Minimal API | Consulta de contexto, indicadores e famílias |
-| Página de portfólio | HTML e CSS | Captura real da tela pública de acesso, sem reconstruir o sistema |
+| Página de portfólio | HTML e CSS | Captura do dashboard original e link para o sistema oficial |
 | Qualidade | xUnit e GitHub Actions | Integridade, reconciliação e publicação |
 
-O sistema profissional original foi desenvolvido em ASP.NET MVC/.NET Framework. A API de demonstração deste repositório é uma implementação independente em .NET 10; não é uma migração nem substituição do sistema original. A interface publicada neste estudo de caso exibe a captura autorizada da tela de acesso original.
+O sistema profissional original foi desenvolvido em ASP.NET MVC/.NET Framework. A API técnica deste repositório é uma implementação independente em .NET 10; não é uma migração nem substituição do sistema original. A página publicada exibe somente a captura do dashboard e um link para o produto oficial.
 
 ## Execute localmente
 
@@ -74,8 +74,8 @@ Para abrir a página de portfólio localmente, sirva a pasta `site/` por HTTP (p
 1. **Dados sintéticos por padrão.** A semente fixa torna a API de demonstração reproduzível e impede a exposição de cadastros reais.
 2. **Indicadores calculados a partir dos registros.** Totais por território reconciliam com o consolidado. Qualidade cadastral é a razão entre famílias com cadastro completo e famílias selecionadas.
 3. **API somente leitura.** O projeto explica consultas e regras sem simular alterações operacionais ou concessões reais.
-4. **Captura original, sem reconstrução visual.** A página pública apresenta uma tela real de acesso, sem imitar as áreas autenticadas do produto.
-5. **Frontend estático para o estudo de caso.** A página no GitHub Pages não se conecta ao produto original, à API ou a bases de produção.
+4. **Captura original, sem reconstrução visual.** A página pública é uma vitrine estática do dashboard, sem imitar nem simular áreas do produto.
+5. **Link direto para o produto oficial.** A interação com o sistema acontece no endereço original; a página do GitHub Pages não se conecta ao produto, à API ou a bases de produção.
 6. **Escopo explícito.** Os números, faixas de renda e estados da API de demonstração são ilustrativos; não orientam elegibilidade, política pública ou decisões sobre pessoas.
 
 Veja [as alternativas e consequências](docs/DECISIONS.md) e o [dicionário de dados](docs/DATA.md).
