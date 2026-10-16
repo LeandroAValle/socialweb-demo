@@ -5,9 +5,9 @@
 [![Estudo de caso](https://img.shields.io/badge/Estudo%20de%20caso-dashboard%20original-1382b2?style=for-the-badge&labelColor=142b43)](https://leandroavalle.github.io/socialweb-demo/)
 [![CI](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml/badge.svg)](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml)
 
-![Dashboard original do BW Assistência Social](site/assets/original-dashboard.png)
+<p align="center"><img src="site/assets/bw-social-brand.png" alt="Logo original BW Social: mão com coração e nome BW Social" width="170"></p>
 
-> A imagem é a captura do dashboard original fornecida para este estudo de caso. Os indicadores visíveis fazem parte da imagem. O link abre o [SocialWeb original](https://socialweb.bwinformatica.com.br/); esta página de portfólio é estática e não fornece acesso de demonstração nem conexão com o sistema.
+> A página de portfólio mostra uma captura do dashboard original; os indicadores visíveis fazem parte dessa imagem. O link abre o [SocialWeb original](https://socialweb.bwinformatica.com.br/). A página é estática e não fornece uma demonstração interativa nem se conecta ao sistema.
 
 ## Em 30 segundos
 
