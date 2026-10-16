@@ -1,11 +1,17 @@
 # BW Social — estudo de caso de portfólio
 
-**Captura do dashboard original do sistema de assistência social e resumo da experiência profissional no produto.**
+**Sistema de gestão da assistência social para equipes municipais que organizam cadastros familiares, atendimentos e programas sociais.**
 
 [![Estudo de caso](https://img.shields.io/badge/Estudo%20de%20caso-dashboard%20original-1382b2?style=for-the-badge&labelColor=142b43)](https://leandroavalle.github.io/socialweb-demo/)
 [![CI](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml/badge.svg)](https://github.com/LeandroAValle/socialweb-demo/actions/workflows/showcase.yml)
 
 <p align="center"><img src="site/assets/bw-social-brand.png" alt="Logo original BW Social: mão com coração e nome BW Social" width="170"></p>
+
+## Finalidade
+
+O BW Social é usado por profissionais da assistência social — como equipes de CRAS — e gestores municipais para organizar cadastros de pessoas e famílias, atendimentos e programas sociais. Ele reúne informações da rotina de atendimento para facilitar o acompanhamento do trabalho.
+
+**Problema que resolve:** evita que o acompanhamento de famílias, serviços e benefícios fique disperso entre cadastros e controles separados.
 
 > A página de portfólio mostra uma captura do dashboard original; os indicadores visíveis fazem parte dessa imagem. O link abre o [SocialWeb original](https://socialweb.bwinformatica.com.br/). A página é estática e não fornece uma demonstração interativa nem se conecta ao sistema.
 
