@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SocialWebDemo.Api/SocialWebDemo.Api.csproj" />
+    <Project Path="src/SocialWebDemo.Core/SocialWebDemo.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SocialWebDemo.Tests/SocialWebDemo.Tests.csproj" />
+  </Folder>
+</Solution>

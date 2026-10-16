@@ -1,0 +1,4058 @@
+{
+  "schemaVersion": 1,
+  "period": "2026-09",
+  "source": "synthetic",
+  "ruleStatus": "illustrative",
+  "territories": [
+    "Todos os territ\u00F3rios",
+    "Territ\u00F3rio Aurora",
+    "Territ\u00F3rio Horizonte",
+    "Territ\u00F3rio Vale"
+  ],
+  "households": [
+    {
+      "id": "FAM-0001",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0002",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0003",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0004",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0005",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0006",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0007",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0008",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0009",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0010",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0011",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0012",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0013",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0014",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0015",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0016",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0017",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0018",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0019",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0020",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0021",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0022",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0023",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0024",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0025",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0026",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0027",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0028",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0029",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0030",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0031",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0032",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0033",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0034",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0035",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0036",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0037",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0038",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0039",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0040",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0041",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0042",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0043",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0044",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0045",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0046",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0047",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0048",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0049",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0050",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0051",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0052",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0053",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0054",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0055",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0056",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0057",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0058",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0059",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0060",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0061",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0062",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0063",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0064",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0065",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0066",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0067",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0068",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0069",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0070",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0071",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0072",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0073",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0074",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0075",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0076",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0077",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0078",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0079",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0080",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0081",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0082",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0083",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0084",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0085",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0086",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0087",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0088",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0089",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0090",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0091",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0092",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0093",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0094",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0095",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0096",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0097",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0098",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0099",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0100",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0101",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0102",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0103",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0104",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0105",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0106",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0107",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0108",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0109",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0110",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0111",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0112",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0113",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0114",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0115",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0116",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0117",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0118",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0119",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0120",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0121",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0122",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0123",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0124",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0125",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0126",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0127",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0128",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0129",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0130",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0131",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0132",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0133",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0134",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0135",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0136",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0137",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0138",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0139",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0140",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0141",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0142",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0143",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0144",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0145",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0146",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 5,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0147",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0148",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0149",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0150",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0151",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0152",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0153",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0154",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0155",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0156",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0157",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 3,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0158",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0159",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0160",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0161",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0162",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0163",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0164",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 1,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0165",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0166",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 6,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0167",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0168",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 2,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0169",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 1,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0170",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 2,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0171",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0172",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0173",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 4,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0174",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0175",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 5,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0176",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0177",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 6,
+      "incomeBand": "De 1 a 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Em acompanhamento"
+    },
+    {
+      "id": "FAM-0178",
+      "territory": "Territ\u00F3rio Aurora",
+      "members": 4,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0179",
+      "territory": "Territ\u00F3rio Horizonte",
+      "members": 3,
+      "incomeBand": "Acima de 2 sal\u00E1rios m\u00EDnimos",
+      "registrationComplete": true,
+      "followUpStatus": "Cadastro ativo"
+    },
+    {
+      "id": "FAM-0180",
+      "territory": "Territ\u00F3rio Vale",
+      "members": 3,
+      "incomeBand": "At\u00E9 1 sal\u00E1rio m\u00EDnimo",
+      "registrationComplete": false,
+      "followUpStatus": "Cadastro ativo"
+    }
+  ],
+  "attendances": [
+    {
+      "id": "ATD-0001",
+      "householdId": "FAM-0001",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0002",
+      "householdId": "FAM-0001",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0003",
+      "householdId": "FAM-0002",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0004",
+      "householdId": "FAM-0003",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0005",
+      "householdId": "FAM-0003",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0006",
+      "householdId": "FAM-0003",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0007",
+      "householdId": "FAM-0005",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0008",
+      "householdId": "FAM-0005",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0009",
+      "householdId": "FAM-0005",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0010",
+      "householdId": "FAM-0006",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0011",
+      "householdId": "FAM-0006",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0012",
+      "householdId": "FAM-0007",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0013",
+      "householdId": "FAM-0009",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0014",
+      "householdId": "FAM-0009",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0015",
+      "householdId": "FAM-0009",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0016",
+      "householdId": "FAM-0010",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0017",
+      "householdId": "FAM-0010",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0018",
+      "householdId": "FAM-0011",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0019",
+      "householdId": "FAM-0011",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0020",
+      "householdId": "FAM-0012",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0021",
+      "householdId": "FAM-0012",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0022",
+      "householdId": "FAM-0012",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0023",
+      "householdId": "FAM-0013",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0024",
+      "householdId": "FAM-0013",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0025",
+      "householdId": "FAM-0014",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0026",
+      "householdId": "FAM-0014",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0027",
+      "householdId": "FAM-0015",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0028",
+      "householdId": "FAM-0016",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0029",
+      "householdId": "FAM-0017",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0030",
+      "householdId": "FAM-0018",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0031",
+      "householdId": "FAM-0018",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0032",
+      "householdId": "FAM-0018",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0033",
+      "householdId": "FAM-0019",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0034",
+      "householdId": "FAM-0019",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0035",
+      "householdId": "FAM-0019",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0036",
+      "householdId": "FAM-0022",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0037",
+      "householdId": "FAM-0022",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0038",
+      "householdId": "FAM-0022",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0039",
+      "householdId": "FAM-0023",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0040",
+      "householdId": "FAM-0023",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0041",
+      "householdId": "FAM-0024",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0042",
+      "householdId": "FAM-0024",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0043",
+      "householdId": "FAM-0024",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0044",
+      "householdId": "FAM-0025",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0045",
+      "householdId": "FAM-0026",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0046",
+      "householdId": "FAM-0026",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0047",
+      "householdId": "FAM-0026",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0048",
+      "householdId": "FAM-0027",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0049",
+      "householdId": "FAM-0027",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0050",
+      "householdId": "FAM-0027",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0051",
+      "householdId": "FAM-0028",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0052",
+      "householdId": "FAM-0028",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0053",
+      "householdId": "FAM-0031",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0054",
+      "householdId": "FAM-0032",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0055",
+      "householdId": "FAM-0032",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0056",
+      "householdId": "FAM-0033",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0057",
+      "householdId": "FAM-0033",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0058",
+      "householdId": "FAM-0034",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0059",
+      "householdId": "FAM-0034",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0060",
+      "householdId": "FAM-0034",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0061",
+      "householdId": "FAM-0036",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0062",
+      "householdId": "FAM-0036",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0063",
+      "householdId": "FAM-0036",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0064",
+      "householdId": "FAM-0038",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0065",
+      "householdId": "FAM-0038",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0066",
+      "householdId": "FAM-0038",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0067",
+      "householdId": "FAM-0039",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0068",
+      "householdId": "FAM-0039",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0069",
+      "householdId": "FAM-0042",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0070",
+      "householdId": "FAM-0043",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0071",
+      "householdId": "FAM-0043",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0072",
+      "householdId": "FAM-0044",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0073",
+      "householdId": "FAM-0044",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0074",
+      "householdId": "FAM-0045",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0075",
+      "householdId": "FAM-0045",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0076",
+      "householdId": "FAM-0046",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0077",
+      "householdId": "FAM-0046",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0078",
+      "householdId": "FAM-0046",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0079",
+      "householdId": "FAM-0048",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0080",
+      "householdId": "FAM-0048",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0081",
+      "householdId": "FAM-0049",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0082",
+      "householdId": "FAM-0049",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0083",
+      "householdId": "FAM-0049",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0084",
+      "householdId": "FAM-0050",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0085",
+      "householdId": "FAM-0050",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0086",
+      "householdId": "FAM-0050",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0087",
+      "householdId": "FAM-0052",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0088",
+      "householdId": "FAM-0052",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0089",
+      "householdId": "FAM-0052",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0090",
+      "householdId": "FAM-0053",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0091",
+      "householdId": "FAM-0053",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0092",
+      "householdId": "FAM-0053",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0093",
+      "householdId": "FAM-0054",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0094",
+      "householdId": "FAM-0054",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0095",
+      "householdId": "FAM-0055",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0096",
+      "householdId": "FAM-0055",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0097",
+      "householdId": "FAM-0056",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0098",
+      "householdId": "FAM-0056",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0099",
+      "householdId": "FAM-0056",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0100",
+      "householdId": "FAM-0057",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0101",
+      "householdId": "FAM-0058",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0102",
+      "householdId": "FAM-0058",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0103",
+      "householdId": "FAM-0058",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0104",
+      "householdId": "FAM-0059",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0105",
+      "householdId": "FAM-0061",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0106",
+      "householdId": "FAM-0061",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0107",
+      "householdId": "FAM-0063",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0108",
+      "householdId": "FAM-0063",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0109",
+      "householdId": "FAM-0064",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0110",
+      "householdId": "FAM-0065",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0111",
+      "householdId": "FAM-0065",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0112",
+      "householdId": "FAM-0069",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0113",
+      "householdId": "FAM-0069",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0114",
+      "householdId": "FAM-0069",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0115",
+      "householdId": "FAM-0070",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0116",
+      "householdId": "FAM-0070",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0117",
+      "householdId": "FAM-0070",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0118",
+      "householdId": "FAM-0071",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0119",
+      "householdId": "FAM-0071",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0120",
+      "householdId": "FAM-0071",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0121",
+      "householdId": "FAM-0074",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0122",
+      "householdId": "FAM-0076",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0123",
+      "householdId": "FAM-0076",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0124",
+      "householdId": "FAM-0077",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0125",
+      "householdId": "FAM-0077",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0126",
+      "householdId": "FAM-0077",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0127",
+      "householdId": "FAM-0078",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0128",
+      "householdId": "FAM-0078",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0129",
+      "householdId": "FAM-0079",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0130",
+      "householdId": "FAM-0080",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0131",
+      "householdId": "FAM-0082",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0132",
+      "householdId": "FAM-0082",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0133",
+      "householdId": "FAM-0082",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0134",
+      "householdId": "FAM-0085",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0135",
+      "householdId": "FAM-0085",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0136",
+      "householdId": "FAM-0085",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0137",
+      "householdId": "FAM-0086",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0138",
+      "householdId": "FAM-0086",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0139",
+      "householdId": "FAM-0086",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0140",
+      "householdId": "FAM-0087",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0141",
+      "householdId": "FAM-0087",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0142",
+      "householdId": "FAM-0087",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0143",
+      "householdId": "FAM-0088",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0144",
+      "householdId": "FAM-0089",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0145",
+      "householdId": "FAM-0089",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0146",
+      "householdId": "FAM-0089",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0147",
+      "householdId": "FAM-0090",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0148",
+      "householdId": "FAM-0090",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0149",
+      "householdId": "FAM-0090",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0150",
+      "householdId": "FAM-0091",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0151",
+      "householdId": "FAM-0092",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0152",
+      "householdId": "FAM-0092",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0153",
+      "householdId": "FAM-0092",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0154",
+      "householdId": "FAM-0093",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0155",
+      "householdId": "FAM-0093",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0156",
+      "householdId": "FAM-0093",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0157",
+      "householdId": "FAM-0094",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0158",
+      "householdId": "FAM-0094",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0159",
+      "householdId": "FAM-0095",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0160",
+      "householdId": "FAM-0097",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0161",
+      "householdId": "FAM-0097",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0162",
+      "householdId": "FAM-0097",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0163",
+      "householdId": "FAM-0098",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0164",
+      "householdId": "FAM-0098",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0165",
+      "householdId": "FAM-0098",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0166",
+      "householdId": "FAM-0099",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0167",
+      "householdId": "FAM-0099",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0168",
+      "householdId": "FAM-0100",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0169",
+      "householdId": "FAM-0100",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0170",
+      "householdId": "FAM-0101",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0171",
+      "householdId": "FAM-0101",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0172",
+      "householdId": "FAM-0103",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0173",
+      "householdId": "FAM-0104",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0174",
+      "householdId": "FAM-0104",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0175",
+      "householdId": "FAM-0104",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0176",
+      "householdId": "FAM-0105",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0177",
+      "householdId": "FAM-0105",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0178",
+      "householdId": "FAM-0106",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0179",
+      "householdId": "FAM-0106",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0180",
+      "householdId": "FAM-0107",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0181",
+      "householdId": "FAM-0108",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0182",
+      "householdId": "FAM-0109",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0183",
+      "householdId": "FAM-0109",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0184",
+      "householdId": "FAM-0109",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0185",
+      "householdId": "FAM-0110",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0186",
+      "householdId": "FAM-0113",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0187",
+      "householdId": "FAM-0115",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0188",
+      "householdId": "FAM-0115",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0189",
+      "householdId": "FAM-0115",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0190",
+      "householdId": "FAM-0116",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0191",
+      "householdId": "FAM-0116",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0192",
+      "householdId": "FAM-0116",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0193",
+      "householdId": "FAM-0117",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0194",
+      "householdId": "FAM-0117",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0195",
+      "householdId": "FAM-0118",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0196",
+      "householdId": "FAM-0119",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0197",
+      "householdId": "FAM-0119",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0198",
+      "householdId": "FAM-0120",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0199",
+      "householdId": "FAM-0120",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0200",
+      "householdId": "FAM-0121",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0201",
+      "householdId": "FAM-0121",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0202",
+      "householdId": "FAM-0121",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0203",
+      "householdId": "FAM-0122",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0204",
+      "householdId": "FAM-0122",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0205",
+      "householdId": "FAM-0123",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0206",
+      "householdId": "FAM-0124",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0207",
+      "householdId": "FAM-0124",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0208",
+      "householdId": "FAM-0125",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0209",
+      "householdId": "FAM-0126",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0210",
+      "householdId": "FAM-0126",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0211",
+      "householdId": "FAM-0127",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0212",
+      "householdId": "FAM-0127",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0213",
+      "householdId": "FAM-0127",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0214",
+      "householdId": "FAM-0131",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0215",
+      "householdId": "FAM-0131",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0216",
+      "householdId": "FAM-0132",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0217",
+      "householdId": "FAM-0135",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0218",
+      "householdId": "FAM-0135",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0219",
+      "householdId": "FAM-0136",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0220",
+      "householdId": "FAM-0136",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0221",
+      "householdId": "FAM-0136",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0222",
+      "householdId": "FAM-0137",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0223",
+      "householdId": "FAM-0137",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0224",
+      "householdId": "FAM-0139",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0225",
+      "householdId": "FAM-0140",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0226",
+      "householdId": "FAM-0141",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0227",
+      "householdId": "FAM-0142",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0228",
+      "householdId": "FAM-0142",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0229",
+      "householdId": "FAM-0144",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0230",
+      "householdId": "FAM-0144",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0231",
+      "householdId": "FAM-0145",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0232",
+      "householdId": "FAM-0146",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0233",
+      "householdId": "FAM-0146",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0234",
+      "householdId": "FAM-0146",
+      "month": "2026-05",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0235",
+      "householdId": "FAM-0147",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0236",
+      "householdId": "FAM-0148",
+      "month": "2026-07",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0237",
+      "householdId": "FAM-0148",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0238",
+      "householdId": "FAM-0148",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0239",
+      "householdId": "FAM-0150",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0240",
+      "householdId": "FAM-0153",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0241",
+      "householdId": "FAM-0154",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0242",
+      "householdId": "FAM-0154",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0243",
+      "householdId": "FAM-0155",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0244",
+      "householdId": "FAM-0155",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0245",
+      "householdId": "FAM-0157",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0246",
+      "householdId": "FAM-0157",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0247",
+      "householdId": "FAM-0158",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0248",
+      "householdId": "FAM-0159",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0249",
+      "householdId": "FAM-0159",
+      "month": "2026-09",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0250",
+      "householdId": "FAM-0160",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0251",
+      "householdId": "FAM-0160",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0252",
+      "householdId": "FAM-0162",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0253",
+      "householdId": "FAM-0163",
+      "month": "2026-04",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0254",
+      "householdId": "FAM-0164",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0255",
+      "householdId": "FAM-0165",
+      "month": "2026-04",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0256",
+      "householdId": "FAM-0165",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0257",
+      "householdId": "FAM-0166",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0258",
+      "householdId": "FAM-0166",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0259",
+      "householdId": "FAM-0166",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0260",
+      "householdId": "FAM-0167",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0261",
+      "householdId": "FAM-0168",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0262",
+      "householdId": "FAM-0168",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0263",
+      "householdId": "FAM-0168",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0264",
+      "householdId": "FAM-0169",
+      "month": "2026-06",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0265",
+      "householdId": "FAM-0169",
+      "month": "2026-05",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0266",
+      "householdId": "FAM-0172",
+      "month": "2026-05",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0267",
+      "householdId": "FAM-0172",
+      "month": "2026-07",
+      "kind": "Encaminhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0268",
+      "householdId": "FAM-0172",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0269",
+      "householdId": "FAM-0173",
+      "month": "2026-06",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0270",
+      "householdId": "FAM-0173",
+      "month": "2026-08",
+      "kind": "Acompanhamento",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0271",
+      "householdId": "FAM-0173",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0272",
+      "householdId": "FAM-0175",
+      "month": "2026-07",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0273",
+      "householdId": "FAM-0175",
+      "month": "2026-04",
+      "kind": "Acompanhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0274",
+      "householdId": "FAM-0177",
+      "month": "2026-09",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0275",
+      "householdId": "FAM-0178",
+      "month": "2026-09",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0276",
+      "householdId": "FAM-0179",
+      "month": "2026-08",
+      "kind": "Orienta\u00E7\u00E3o",
+      "status": "Em aberto"
+    },
+    {
+      "id": "ATD-0277",
+      "householdId": "FAM-0180",
+      "month": "2026-06",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "ATD-0278",
+      "householdId": "FAM-0180",
+      "month": "2026-08",
+      "kind": "Encaminhamento",
+      "status": "Conclu\u00EDdo"
+    }
+  ],
+  "benefits": [
+    {
+      "id": "BEN-0001",
+      "householdId": "FAM-0001",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0002",
+      "householdId": "FAM-0002",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0003",
+      "householdId": "FAM-0004",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0004",
+      "householdId": "FAM-0007",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0005",
+      "householdId": "FAM-0008",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0006",
+      "householdId": "FAM-0009",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0007",
+      "householdId": "FAM-0013",
+      "type": "Transporte",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0008",
+      "householdId": "FAM-0014",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0009",
+      "householdId": "FAM-0016",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0010",
+      "householdId": "FAM-0018",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0011",
+      "householdId": "FAM-0019",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0012",
+      "householdId": "FAM-0020",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0013",
+      "householdId": "FAM-0024",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0014",
+      "householdId": "FAM-0026",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0015",
+      "householdId": "FAM-0027",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0016",
+      "householdId": "FAM-0032",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0017",
+      "householdId": "FAM-0033",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0018",
+      "householdId": "FAM-0039",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0019",
+      "householdId": "FAM-0045",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0020",
+      "householdId": "FAM-0048",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0021",
+      "householdId": "FAM-0049",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0022",
+      "householdId": "FAM-0050",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0023",
+      "householdId": "FAM-0055",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0024",
+      "householdId": "FAM-0058",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0025",
+      "householdId": "FAM-0059",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0026",
+      "householdId": "FAM-0063",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0027",
+      "householdId": "FAM-0069",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0028",
+      "householdId": "FAM-0071",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0029",
+      "householdId": "FAM-0076",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0030",
+      "householdId": "FAM-0077",
+      "type": "Transporte",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0031",
+      "householdId": "FAM-0078",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0032",
+      "householdId": "FAM-0079",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0033",
+      "householdId": "FAM-0080",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0034",
+      "householdId": "FAM-0081",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0035",
+      "householdId": "FAM-0082",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0036",
+      "householdId": "FAM-0083",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0037",
+      "householdId": "FAM-0084",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0038",
+      "householdId": "FAM-0085",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0039",
+      "householdId": "FAM-0086",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0040",
+      "householdId": "FAM-0088",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0041",
+      "householdId": "FAM-0090",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0042",
+      "householdId": "FAM-0092",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0043",
+      "householdId": "FAM-0093",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0044",
+      "householdId": "FAM-0094",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0045",
+      "householdId": "FAM-0095",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0046",
+      "householdId": "FAM-0097",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0047",
+      "householdId": "FAM-0098",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0048",
+      "householdId": "FAM-0106",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0049",
+      "householdId": "FAM-0107",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0050",
+      "householdId": "FAM-0109",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0051",
+      "householdId": "FAM-0110",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0052",
+      "householdId": "FAM-0113",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0053",
+      "householdId": "FAM-0114",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0054",
+      "householdId": "FAM-0116",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0055",
+      "householdId": "FAM-0119",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0056",
+      "householdId": "FAM-0120",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0057",
+      "householdId": "FAM-0123",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0058",
+      "householdId": "FAM-0124",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0059",
+      "householdId": "FAM-0126",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0060",
+      "householdId": "FAM-0129",
+      "type": "Apoio alimentar",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0061",
+      "householdId": "FAM-0130",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0062",
+      "householdId": "FAM-0134",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0063",
+      "householdId": "FAM-0141",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0064",
+      "householdId": "FAM-0142",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0065",
+      "householdId": "FAM-0144",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0066",
+      "householdId": "FAM-0147",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0067",
+      "householdId": "FAM-0148",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0068",
+      "householdId": "FAM-0150",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0069",
+      "householdId": "FAM-0153",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0070",
+      "householdId": "FAM-0155",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0071",
+      "householdId": "FAM-0156",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0072",
+      "householdId": "FAM-0157",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0073",
+      "householdId": "FAM-0159",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0074",
+      "householdId": "FAM-0164",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0075",
+      "householdId": "FAM-0165",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0076",
+      "householdId": "FAM-0166",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0077",
+      "householdId": "FAM-0167",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0078",
+      "householdId": "FAM-0168",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0079",
+      "householdId": "FAM-0171",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0080",
+      "householdId": "FAM-0174",
+      "type": "Apoio alimentar",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0081",
+      "householdId": "FAM-0176",
+      "type": "Transporte",
+      "status": "Ativo"
+    },
+    {
+      "id": "BEN-0082",
+      "householdId": "FAM-0177",
+      "type": "Transporte",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0083",
+      "householdId": "FAM-0178",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    },
+    {
+      "id": "BEN-0084",
+      "householdId": "FAM-0180",
+      "type": "Aux\u00EDlio eventual",
+      "status": "Conclu\u00EDdo"
+    }
+  ],
+  "views": {
+    "Todos os territ\u00F3rios": {
+      "territory": "Todos os territ\u00F3rios",
+      "metrics": {
+        "households": 180,
+        "people": 630,
+        "openAttendances": 78,
+        "activeBenefits": 64,
+        "incompleteRegistrations": 23,
+        "registrationQuality": 87.2
+      },
+      "activity": [
+        {
+          "month": "2026-04",
+          "attendances": 55
+        },
+        {
+          "month": "2026-05",
+          "attendances": 40
+        },
+        {
+          "month": "2026-06",
+          "attendances": 52
+        },
+        {
+          "month": "2026-07",
+          "attendances": 48
+        },
+        {
+          "month": "2026-08",
+          "attendances": 39
+        },
+        {
+          "month": "2026-09",
+          "attendances": 44
+        }
+      ]
+    },
+    "Territ\u00F3rio Aurora": {
+      "territory": "Territ\u00F3rio Aurora",
+      "metrics": {
+        "households": 60,
+        "people": 209,
+        "openAttendances": 27,
+        "activeBenefits": 20,
+        "incompleteRegistrations": 5,
+        "registrationQuality": 91.7
+      },
+      "activity": [
+        {
+          "month": "2026-04",
+          "attendances": 34
+        },
+        {
+          "month": "2026-05",
+          "attendances": 11
+        },
+        {
+          "month": "2026-06",
+          "attendances": 16
+        },
+        {
+          "month": "2026-07",
+          "attendances": 19
+        },
+        {
+          "month": "2026-08",
+          "attendances": 13
+        },
+        {
+          "month": "2026-09",
+          "attendances": 14
+        }
+      ]
+    },
+    "Territ\u00F3rio Horizonte": {
+      "territory": "Territ\u00F3rio Horizonte",
+      "metrics": {
+        "households": 60,
+        "people": 207,
+        "openAttendances": 32,
+        "activeBenefits": 20,
+        "incompleteRegistrations": 13,
+        "registrationQuality": 78.3
+      },
+      "activity": [
+        {
+          "month": "2026-04",
+          "attendances": 8
+        },
+        {
+          "month": "2026-05",
+          "attendances": 15
+        },
+        {
+          "month": "2026-06",
+          "attendances": 19
+        },
+        {
+          "month": "2026-07",
+          "attendances": 12
+        },
+        {
+          "month": "2026-08",
+          "attendances": 18
+        },
+        {
+          "month": "2026-09",
+          "attendances": 15
+        }
+      ]
+    },
+    "Territ\u00F3rio Vale": {
+      "territory": "Territ\u00F3rio Vale",
+      "metrics": {
+        "households": 60,
+        "people": 214,
+        "openAttendances": 19,
+        "activeBenefits": 24,
+        "incompleteRegistrations": 5,
+        "registrationQuality": 91.7
+      },
+      "activity": [
+        {
+          "month": "2026-04",
+          "attendances": 13
+        },
+        {
+          "month": "2026-05",
+          "attendances": 14
+        },
+        {
+          "month": "2026-06",
+          "attendances": 17
+        },
+        {
+          "month": "2026-07",
+          "attendances": 17
+        },
+        {
+          "month": "2026-08",
+          "attendances": 8
+        },
+        {
+          "month": "2026-09",
+          "attendances": 15
+        }
+      ]
+    }
+  }
+}

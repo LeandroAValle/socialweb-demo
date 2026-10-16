@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101f32">
+  <meta name="description" content="Demonstração pública de um painel de gestão social com dados 100% sintéticos.">
+  <title>SocialWeb Demo | Gestão social orientada por dados</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#inicio" aria-label="SocialWeb Demo, início"><span class="brand-mark">SW</span><span>socialweb<span class="brand-dot">.</span><small>DEMO</small></span></a>
+      <div class="nav-label">EXPLORAR</div>
+      <nav aria-label="Navegação principal"><a class="active" href="#inicio">▦ <span>Visão geral</span></a><a href="#territorios">⌁ <span>Territórios</span></a><a href="#familias">▤ <span>Famílias</span></a><a href="#sobre">ⓘ <span>Sobre o projeto</span></a></nav>
+      <div class="sidebar-bottom"><div class="seed-icon">✦</div><strong>Dados de demonstração</strong><p>100% fictícios e reproduzíveis. Nenhuma pessoa real é representada.</p><a href="https://github.com/LeandroAValle/socialweb-demo" target="_blank" rel="noopener">Ver código no GitHub ↗</a></div>
+    </aside>
+    <main id="inicio">
+      <header class="topbar"><span>Portfólio / Projetos / <b>SocialWeb Demo</b></span><span class="top-status"><i></i> Ambiente de demonstração</span></header>
+      <div class="content">
+        <section class="hero"><div><div class="eyebrow">PLATAFORMA DE GESTÃO SOCIAL · PROJETO DEMONSTRATIVO</div><h1>Uma visão clara para<br><em>decisões que importam.</em></h1><p>Explore cadastros, atendimentos e benefícios em um painel construído para transformar registros operacionais em indicadores compreensíveis.</p><div class="hero-actions"><a class="primary" href="#familias">Explorar famílias <span>↗</span></a><a class="secondary" href="https://github.com/LeandroAValle/socialweb-demo#arquitetura" target="_blank" rel="noopener">Conhecer arquitetura ↗</a></div></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><span class="art-center">✳</span><span class="art-dot d1"></span><span class="art-dot d2"></span><span class="art-dot d3"></span></div></section>
+        <section class="section-head" id="territorios"><div><span class="kicker">PANORAMA</span><h2>Visão geral</h2><p>Indicadores sintéticos do período de setembro de 2026</p></div><label class="territory-control">Território <select id="territory"><option>Carregando...</option></select></label></section>
+        <section class="metrics" aria-label="Indicadores principais"><article class="metric"><div class="metric-icon blue">⌂</div><span>Famílias cadastradas</span><strong id="households">—</strong><small>Na área selecionada</small></article><article class="metric"><div class="metric-icon purple">♙</div><span>Pessoas vinculadas</span><strong id="people">—</strong><small>Integrantes das famílias</small></article><article class="metric"><div class="metric-icon orange">◷</div><span>Atendimentos em aberto</span><strong id="attendances">—</strong><small>Demandas para acompanhar</small></article><article class="metric"><div class="metric-icon green">◇</div><span>Benefícios ativos</span><strong id="benefits">—</strong><small>Concessões em vigência</small></article></section>
+        <section class="insights"><article class="panel chart-panel"><div class="panel-header"><div><span class="kicker">EVOLUÇÃO</span><h3>Atendimentos por mês</h3></div><span class="tiny-pill">Abr — Set 2026</span></div><div id="chart" class="chart" role="img" aria-label="Gráfico de atendimentos mensais"></div><div class="chart-foot">Volume mensal de registros concluídos e em aberto</div></article><article class="panel quality-panel"><div class="panel-header"><div><span class="kicker">QUALIDADE DO CADASTRO</span><h3>Dados que geram confiança</h3></div></div><div class="quality-circle"><div><strong id="quality">—</strong><span>cadastros completos</span></div></div><div class="quality-detail"><span><i class="legend good"></i> Completos</span><strong id="complete">—</strong></div><div class="quality-detail"><span><i class="legend bad"></i> Pendentes</span><strong id="incomplete">—</strong></div></article></section>
+        <section class="panel families" id="familias"><div class="panel-header family-header"><div><span class="kicker">REGISTROS</span><h3>Famílias cadastradas</h3><p>Identificadores e dados inteiramente fictícios</p></div><div class="controls"><input id="search" type="search" placeholder="Buscar ID, ex.: FAM-0001" aria-label="Buscar família por identificador"><select id="status" aria-label="Filtrar cadastro"><option value="all">Todos os cadastros</option><option value="complete">Completos</option><option value="pending">Pendentes</option></select></div></div><div class="table-wrap"><table><thead><tr><th>FAMÍLIA</th><th>TERRITÓRIO</th><th>INTEGRANTES</th><th>FAIXA DE RENDA</th><th>CADASTRO</th><th></th></tr></thead><tbody id="family-rows"></tbody></table></div><div class="table-foot"><span id="count">—</span><button id="more" type="button">Mostrar mais ↓</button></div></section>
+        <section class="about" id="sobre"><div><span class="kicker">SOBRE O PROJETO</span><h2>Uma demonstração, construída com responsabilidade.</h2></div><p>Este projeto independente apresenta conceitos de gestão social por meio de uma API de leitura em C#/.NET, indicadores reconciliáveis e uma interface web. Os dados são sintéticos, gerados por uma semente fixa. As métricas são ilustrativas e não representam desempenho real de serviços públicos.</p></section>
+        <footer><span>© 2026 SocialWeb Demo · Portfólio de Leandro Valle</span><a href="https://github.com/LeandroAValle/socialweb-demo" target="_blank" rel="noopener">Código e documentação ↗</a></footer>
+      </div>
+    </main>
+  </div>
+  <dialog id="detail"><button id="close-detail" class="close" aria-label="Fechar detalhes">×</button><div id="detail-content"></div></dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
